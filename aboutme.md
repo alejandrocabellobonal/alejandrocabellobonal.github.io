@@ -1,17 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: A brief personal description
+title: Who am I?
+subtitle: A little bit about me :)
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Alejandro Cabello, and I am from Tarragona. Until recently, my main focus was Medical Imaging. However, I have recently started learning about quality standards and Good Manufacturing Practices (GMP) in pharmaceutical manufacturing, and I’m quickly falling down what is proving to be a very interesting rabbit hole.
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Biomedical Engineering degree (2021 - 2025)
+- Master in Health Data Science (2025 - present)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Quality Assurance intern in the Medical Physics department at Hospital Sant Joan de Reus (June 2024 - September 2024)
+- Research Collaborator at Institut de Recerca Catalunya Sud (February 2025 - June 2025)
+- Validation Technitian trainee at Boehringer Ingelheim (February 2025 - Present)
