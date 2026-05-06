@@ -11,7 +11,7 @@ author: Joan Didion
 ---
 
 {: .box-success}
-Joan Didion is my favorite essayist, and On Self-Respect is one of my favorite essays by her. She was born in Sacramento, California, in 1934 and wrote this piece for Vogue magazine. Didion was one of the pioneers of New Journalism, which blends factual reporting with personal perspective, and in this essay she captures a moment of self-realization that I believe people often forget and that I personally re-read often.
+Joan Didion is my favorite essayist, and On Self-Respect is one of my favorite essays by her. She was born in Sacramento, California, and in 1961 she wrote this piece for Vogue magazine. Didion was one of the pioneers of New Journalism, which blends factual reporting with personal perspective, and in this essay she captures a moment of self-realization that I believe people often forget and that I personally re-read often.
 
 ![Joan Didion](/imatges/JoanDidion.png){: .mx-auto.d-block :}
 
