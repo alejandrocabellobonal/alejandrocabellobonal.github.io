@@ -13,7 +13,7 @@ author: Joan Didion
 {: .box-success}
 Joan Didion is my favorite essayist, and On Self-Respect is one of my favorite essays by her. She was born in Sacramento, California, and in 1961 she wrote this piece for Vogue magazine. Didion was one of the pioneers of New Journalism, which blends factual reporting with personal perspective, and in this essay she captures a moment of self-realization that I believe people often forget and that I personally re-read often.
 
-![Joan Didion](/imatges/JoanDidion.png){: .mx-auto.d-block :}
+![Joan Didion](/images/JoanDidion.png){: .mx-auto.d-block :}
 
 Once, in a dry season, I wrote in large letters across two pages of a notebook that innocence ends when one is stripped of the delusion that one likes oneself. Although now, some years later, I marvel that a mind on the outs with itself should have nonetheless made painstaking record of its every tremor, I recall with embarrassing clarity the flavor of those particular ashes. It was a matter of misplaced self-respect.
 
