@@ -14,4 +14,4 @@ My name is Alejandro Cabello, and I am from Tarragona. Until recently, my main f
 ### Experience
 - Quality Assurance intern in the Medical Physics department at Hospital Sant Joan de Reus (June 2024 - September 2024)
 - Research Collaborator at Institut de Recerca Catalunya Sud (February 2025 - June 2025)
-- Validation Technitian trainee at Boehringer Ingelheim (February 2025 - Present)
+- Validation Technitian trainee at Boehringer Ingelheim (February 2026 - Present)
