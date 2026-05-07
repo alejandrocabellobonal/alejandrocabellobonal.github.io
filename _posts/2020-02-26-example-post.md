@@ -1,10 +1,10 @@
 ---
 layout: post
-title: On self respect
+title: On Self-Respect
 subtitle: My favorite Joan Didion's essay
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [poetry]
+tags: [essays, Joan Didion]
 comments: true
 mathjax: true
 author: Joan Didion
